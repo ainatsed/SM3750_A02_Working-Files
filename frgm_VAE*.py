@@ -1,4 +1,6 @@
 # Modified from L17.5 A Variational AutoEncoder for Handwritten Digits in PyTorch 
+# https://youtu.be/afNuE5z2CQ8?si=dWmGaZJ3uIWA-bPx
+
 
 import torch
 import torch.nn as nn
